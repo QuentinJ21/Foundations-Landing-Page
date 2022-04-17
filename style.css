@@ -21,6 +21,10 @@ a {
     font-size: 18px;
 }
 
+a:hover {
+    color: white;
+}
+
 .almost-top {
     display: flex;
     justify-content: space-between;
